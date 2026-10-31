@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "OmniPlay"
 include(":app")
-include(":equalizer")
